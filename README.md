@@ -1,4 +1,4 @@
-# `Please support` - [HatSploit Framework](https://github.com/EntySec/HatSploit)
+# `Please star` - [HatSploit Framework](https://github.com/EntySec/HatSploit)
 
 # Ghost Framework
 
